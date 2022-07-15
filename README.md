@@ -3,8 +3,8 @@
 Materiais e links para usar no dia a dia em VTEX IO
 
 ## Links úteis 
-[JSON Schema](https://json-schema.org/)
-[Semantic Version](https://semver.org/lang/pt-BR/) [with ilustration](https://medium.com/fiverr-engineering/major-minor-patch-a5298e2e1798)
+[JSON Schema](https://json-schema.org/) <br>
+[Semantic Version](https://semver.org/lang/pt-BR/) ➡️ [with ilustration](https://medium.com/fiverr-engineering/major-minor-patch-a5298e2e1798)
 
 # [Store Theme](https://github.com/vtex-apps/store-theme)
 Our boilerplate theme to create stores in the VTEX IO platform.
