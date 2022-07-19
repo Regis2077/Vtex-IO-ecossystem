@@ -15,6 +15,7 @@ Our boilerplate theme to create stores in the VTEX IO platform.
 - [Advanceds Components](https://developers.vtex.com/vtex-developer-docs/docs/advanced-components)
 - [Layout Apps](https://developers.vtex.com/vtex-developer-docs/docs/layout-apps)
 - [Pixel Apps](https://developers.vtex.com/vtex-developer-docs/docs/pixel-apps)
+  - [Pixel APP TEMPLATE](https://github.com/vtex-apps/pixel-app-template)
 
 ## VTEX Store GraphQL
 
