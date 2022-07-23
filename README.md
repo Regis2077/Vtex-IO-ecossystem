@@ -10,7 +10,7 @@ Materiais e links para usar no dia a dia em VTEX IO
 Our boilerplate theme to create stores in the VTEX IO platform.
 
 ## STORE FRAMEWORK APPS
-- [Basic Compnents](https://github.com/vtex-apps/store-header/blob/master/docs/README.md)
+- [Basic Compnents](https://developers.vtex.com/vtex-developer-docs/docs/basic-components)
 - [Store Components](https://developers.vtex.com/vtex-developer-docs/docs/store-components)
 - [Advanceds Components](https://developers.vtex.com/vtex-developer-docs/docs/advanced-components)
 - [Layout Apps](https://developers.vtex.com/vtex-developer-docs/docs/layout-apps)
