@@ -1,4 +1,4 @@
-# Vtex-IO-ecossystem
+# VTEX IO Ecossystem
 
 Materiais e links para usar no dia a dia em VTEX IO
 
